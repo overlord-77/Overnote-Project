@@ -13,21 +13,6 @@
 
 ## 🖥️ Software Information
 
-| Field                     | Value                          |
-| ------------------------- | ------------------------------ |
-| **Software Name**         | Overnote                       |
-| **Software Type**         | GUI (Graphical User Interface) |
-| **Software Purpose**      | Text Editor                    |
-| **Software Version**      | 0.1                            |
-| **Software Start Date**   | 2025-09-12                     |
-| **Software Release Date** | 2025-09-18                     |
-| **Software Made By**      | Treadway                       |
-| **Programming Language**  | Python                         |
-
----
-
-## 🖥️ Software Information
-
 | Field Name              | Value                              |
 | ----------------------- | ---------------------------------- |
 | Software Name           | Overnote                           |
