@@ -16,7 +16,7 @@
 | Software Release Update | 2026-02-11                     |
 | Software Made By        | Treadway                       |
 | Programming Language    | Python                         |
-| Code Size (approx.)     | 2876 lines - ※**Medium**※      |
+| Code Size (approx.)     | 2887 lines - ※**Medium**※      |
 | Abstract Level          | High-Level                     |
 
 ---
