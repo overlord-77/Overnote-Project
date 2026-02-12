@@ -48,7 +48,6 @@
 
 ---
 
-```markdown
 # Project Name
 
 A Python project built with **Python 3.12.9** using a local virtual environment (`.venv`).
