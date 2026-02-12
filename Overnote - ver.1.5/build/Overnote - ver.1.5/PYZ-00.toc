@@ -1,0 +1,2495 @@
+('D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote - '
+ 'ver.1.5\\build\\Overnote - ver.1.5\\PYZ-00.pyz',
+ [('PIL',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\PIL\\__init__.py',
+   'PYMODULE'),
+  ('PIL.BlpImagePlugin',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\PIL\\BlpImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.BmpImagePlugin',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\PIL\\BmpImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.BufrStubImagePlugin',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\PIL\\BufrStubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.CurImagePlugin',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\PIL\\CurImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.DcxImagePlugin',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\PIL\\DcxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.DdsImagePlugin',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\PIL\\DdsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.EpsImagePlugin',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\PIL\\EpsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ExifTags',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\PIL\\ExifTags.py',
+   'PYMODULE'),
+  ('PIL.FitsImagePlugin',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\PIL\\FitsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FliImagePlugin',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\PIL\\FliImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FpxImagePlugin',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\PIL\\FpxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FtexImagePlugin',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\PIL\\FtexImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.GbrImagePlugin',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\PIL\\GbrImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.GifImagePlugin',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\PIL\\GifImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.GimpGradientFile',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\PIL\\GimpGradientFile.py',
+   'PYMODULE'),
+  ('PIL.GimpPaletteFile',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\PIL\\GimpPaletteFile.py',
+   'PYMODULE'),
+  ('PIL.GribStubImagePlugin',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\PIL\\GribStubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.Hdf5StubImagePlugin',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\PIL\\Hdf5StubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IcnsImagePlugin',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\PIL\\IcnsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IcoImagePlugin',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\PIL\\IcoImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImImagePlugin',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\PIL\\ImImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.Image',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\PIL\\Image.py',
+   'PYMODULE'),
+  ('PIL.ImageChops',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\PIL\\ImageChops.py',
+   'PYMODULE'),
+  ('PIL.ImageCms',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\PIL\\ImageCms.py',
+   'PYMODULE'),
+  ('PIL.ImageColor',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\PIL\\ImageColor.py',
+   'PYMODULE'),
+  ('PIL.ImageFile',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\PIL\\ImageFile.py',
+   'PYMODULE'),
+  ('PIL.ImageFilter',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\PIL\\ImageFilter.py',
+   'PYMODULE'),
+  ('PIL.ImageMath',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\PIL\\ImageMath.py',
+   'PYMODULE'),
+  ('PIL.ImageMode',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\PIL\\ImageMode.py',
+   'PYMODULE'),
+  ('PIL.ImageOps',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\PIL\\ImageOps.py',
+   'PYMODULE'),
+  ('PIL.ImagePalette',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\PIL\\ImagePalette.py',
+   'PYMODULE'),
+  ('PIL.ImageQt',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\PIL\\ImageQt.py',
+   'PYMODULE'),
+  ('PIL.ImageSequence',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\PIL\\ImageSequence.py',
+   'PYMODULE'),
+  ('PIL.ImageShow',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\PIL\\ImageShow.py',
+   'PYMODULE'),
+  ('PIL.ImageTk',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\PIL\\ImageTk.py',
+   'PYMODULE'),
+  ('PIL.ImageWin',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\PIL\\ImageWin.py',
+   'PYMODULE'),
+  ('PIL.ImtImagePlugin',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\PIL\\ImtImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IptcImagePlugin',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\PIL\\IptcImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.Jpeg2KImagePlugin',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\PIL\\Jpeg2KImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.JpegImagePlugin',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\PIL\\JpegImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.JpegPresets',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\PIL\\JpegPresets.py',
+   'PYMODULE'),
+  ('PIL.McIdasImagePlugin',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\PIL\\McIdasImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MicImagePlugin',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\PIL\\MicImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MpegImagePlugin',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\PIL\\MpegImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MpoImagePlugin',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\PIL\\MpoImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MspImagePlugin',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\PIL\\MspImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PaletteFile',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\PIL\\PaletteFile.py',
+   'PYMODULE'),
+  ('PIL.PalmImagePlugin',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\PIL\\PalmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PcdImagePlugin',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\PIL\\PcdImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PcxImagePlugin',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\PIL\\PcxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PdfImagePlugin',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\PIL\\PdfImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PdfParser',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\PIL\\PdfParser.py',
+   'PYMODULE'),
+  ('PIL.PixarImagePlugin',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\PIL\\PixarImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PngImagePlugin',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\PIL\\PngImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PpmImagePlugin',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\PIL\\PpmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PsdImagePlugin',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\PIL\\PsdImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PyAccess',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\PIL\\PyAccess.py',
+   'PYMODULE'),
+  ('PIL.QoiImagePlugin',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\PIL\\QoiImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.SgiImagePlugin',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\PIL\\SgiImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.SpiderImagePlugin',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\PIL\\SpiderImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.SunImagePlugin',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\PIL\\SunImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.TgaImagePlugin',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\PIL\\TgaImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.TiffImagePlugin',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\PIL\\TiffImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.TiffTags',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\PIL\\TiffTags.py',
+   'PYMODULE'),
+  ('PIL.WebPImagePlugin',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\PIL\\WebPImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.WmfImagePlugin',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\PIL\\WmfImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.XVThumbImagePlugin',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\PIL\\XVThumbImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.XbmImagePlugin',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\PIL\\XbmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.XpmImagePlugin',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\PIL\\XpmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL._binary',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\PIL\\_binary.py',
+   'PYMODULE'),
+  ('PIL._deprecate',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\PIL\\_deprecate.py',
+   'PYMODULE'),
+  ('PIL._typing',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\PIL\\_typing.py',
+   'PYMODULE'),
+  ('PIL._util',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\PIL\\_util.py',
+   'PYMODULE'),
+  ('PIL._version',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\PIL\\_version.py',
+   'PYMODULE'),
+  ('PIL.features',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\PIL\\features.py',
+   'PYMODULE'),
+  ('__future__',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\__future__.py',
+   'PYMODULE'),
+  ('_aix_support',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\_aix_support.py',
+   'PYMODULE'),
+  ('_compat_pickle',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\_compat_pickle.py',
+   'PYMODULE'),
+  ('_compression',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\_compression.py',
+   'PYMODULE'),
+  ('_distutils_hack',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\_distutils_hack\\__init__.py',
+   'PYMODULE'),
+  ('_distutils_hack.override',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\_distutils_hack\\override.py',
+   'PYMODULE'),
+  ('_markupbase',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\_markupbase.py',
+   'PYMODULE'),
+  ('_py_abc',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\_py_abc.py',
+   'PYMODULE'),
+  ('_pydatetime',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\_pydatetime.py',
+   'PYMODULE'),
+  ('_pydecimal',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\_pydecimal.py',
+   'PYMODULE'),
+  ('_sitebuiltins',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\_sitebuiltins.py',
+   'PYMODULE'),
+  ('_strptime',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\_strptime.py',
+   'PYMODULE'),
+  ('_threading_local',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\_threading_local.py',
+   'PYMODULE'),
+  ('argparse',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\argparse.py',
+   'PYMODULE'),
+  ('ast',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\ast.py',
+   'PYMODULE'),
+  ('asyncio',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\__init__.py',
+   'PYMODULE'),
+  ('asyncio.base_events',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\base_events.py',
+   'PYMODULE'),
+  ('asyncio.base_futures',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\base_futures.py',
+   'PYMODULE'),
+  ('asyncio.base_subprocess',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\base_subprocess.py',
+   'PYMODULE'),
+  ('asyncio.base_tasks',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\base_tasks.py',
+   'PYMODULE'),
+  ('asyncio.constants',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\constants.py',
+   'PYMODULE'),
+  ('asyncio.coroutines',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\coroutines.py',
+   'PYMODULE'),
+  ('asyncio.events',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\events.py',
+   'PYMODULE'),
+  ('asyncio.exceptions',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\exceptions.py',
+   'PYMODULE'),
+  ('asyncio.format_helpers',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\format_helpers.py',
+   'PYMODULE'),
+  ('asyncio.futures',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\futures.py',
+   'PYMODULE'),
+  ('asyncio.locks',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\locks.py',
+   'PYMODULE'),
+  ('asyncio.log',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\log.py',
+   'PYMODULE'),
+  ('asyncio.mixins',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\mixins.py',
+   'PYMODULE'),
+  ('asyncio.proactor_events',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\proactor_events.py',
+   'PYMODULE'),
+  ('asyncio.protocols',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\protocols.py',
+   'PYMODULE'),
+  ('asyncio.queues',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\queues.py',
+   'PYMODULE'),
+  ('asyncio.runners',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\runners.py',
+   'PYMODULE'),
+  ('asyncio.selector_events',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\selector_events.py',
+   'PYMODULE'),
+  ('asyncio.sslproto',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\sslproto.py',
+   'PYMODULE'),
+  ('asyncio.staggered',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\staggered.py',
+   'PYMODULE'),
+  ('asyncio.streams',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\streams.py',
+   'PYMODULE'),
+  ('asyncio.subprocess',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\subprocess.py',
+   'PYMODULE'),
+  ('asyncio.taskgroups',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\taskgroups.py',
+   'PYMODULE'),
+  ('asyncio.tasks',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\tasks.py',
+   'PYMODULE'),
+  ('asyncio.threads',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\threads.py',
+   'PYMODULE'),
+  ('asyncio.timeouts',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\timeouts.py',
+   'PYMODULE'),
+  ('asyncio.transports',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\transports.py',
+   'PYMODULE'),
+  ('asyncio.trsock',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\trsock.py',
+   'PYMODULE'),
+  ('asyncio.unix_events',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\unix_events.py',
+   'PYMODULE'),
+  ('asyncio.windows_events',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\windows_events.py',
+   'PYMODULE'),
+  ('asyncio.windows_utils',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\windows_utils.py',
+   'PYMODULE'),
+  ('base64',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\base64.py',
+   'PYMODULE'),
+  ('bisect',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\bisect.py',
+   'PYMODULE'),
+  ('bz2',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\bz2.py',
+   'PYMODULE'),
+  ('calendar',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\calendar.py',
+   'PYMODULE'),
+  ('certifi',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\certifi\\__init__.py',
+   'PYMODULE'),
+  ('certifi.core',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\certifi\\core.py',
+   'PYMODULE'),
+  ('cffi',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\cffi\\__init__.py',
+   'PYMODULE'),
+  ('cffi._imp_emulation',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\cffi\\_imp_emulation.py',
+   'PYMODULE'),
+  ('cffi._shimmed_dist_utils',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\cffi\\_shimmed_dist_utils.py',
+   'PYMODULE'),
+  ('cffi.api',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\cffi\\api.py',
+   'PYMODULE'),
+  ('cffi.cffi_opcode',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\cffi\\cffi_opcode.py',
+   'PYMODULE'),
+  ('cffi.commontypes',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\cffi\\commontypes.py',
+   'PYMODULE'),
+  ('cffi.cparser',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\cffi\\cparser.py',
+   'PYMODULE'),
+  ('cffi.error',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\cffi\\error.py',
+   'PYMODULE'),
+  ('cffi.ffiplatform',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\cffi\\ffiplatform.py',
+   'PYMODULE'),
+  ('cffi.lock',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\cffi\\lock.py',
+   'PYMODULE'),
+  ('cffi.model',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\cffi\\model.py',
+   'PYMODULE'),
+  ('cffi.pkgconfig',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\cffi\\pkgconfig.py',
+   'PYMODULE'),
+  ('cffi.recompiler',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\cffi\\recompiler.py',
+   'PYMODULE'),
+  ('cffi.vengine_cpy',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\cffi\\vengine_cpy.py',
+   'PYMODULE'),
+  ('cffi.vengine_gen',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\cffi\\vengine_gen.py',
+   'PYMODULE'),
+  ('cffi.verifier',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\cffi\\verifier.py',
+   'PYMODULE'),
+  ('charset_normalizer',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\charset_normalizer\\__init__.py',
+   'PYMODULE'),
+  ('charset_normalizer.api',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\charset_normalizer\\api.py',
+   'PYMODULE'),
+  ('charset_normalizer.cd',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\charset_normalizer\\cd.py',
+   'PYMODULE'),
+  ('charset_normalizer.constant',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\charset_normalizer\\constant.py',
+   'PYMODULE'),
+  ('charset_normalizer.legacy',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\charset_normalizer\\legacy.py',
+   'PYMODULE'),
+  ('charset_normalizer.models',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\charset_normalizer\\models.py',
+   'PYMODULE'),
+  ('charset_normalizer.utils',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\charset_normalizer\\utils.py',
+   'PYMODULE'),
+  ('charset_normalizer.version',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\charset_normalizer\\version.py',
+   'PYMODULE'),
+  ('colorsys',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\colorsys.py',
+   'PYMODULE'),
+  ('concurrent',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\concurrent\\__init__.py',
+   'PYMODULE'),
+  ('concurrent.futures',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\concurrent\\futures\\__init__.py',
+   'PYMODULE'),
+  ('concurrent.futures._base',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\concurrent\\futures\\_base.py',
+   'PYMODULE'),
+  ('concurrent.futures.process',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\concurrent\\futures\\process.py',
+   'PYMODULE'),
+  ('concurrent.futures.thread',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\concurrent\\futures\\thread.py',
+   'PYMODULE'),
+  ('configparser',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\configparser.py',
+   'PYMODULE'),
+  ('contextlib',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\contextlib.py',
+   'PYMODULE'),
+  ('contextvars',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\contextvars.py',
+   'PYMODULE'),
+  ('copy',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\copy.py',
+   'PYMODULE'),
+  ('csv',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\csv.py',
+   'PYMODULE'),
+  ('ctypes',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\ctypes\\__init__.py',
+   'PYMODULE'),
+  ('ctypes._aix',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\ctypes\\_aix.py',
+   'PYMODULE'),
+  ('ctypes._endian',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\ctypes\\_endian.py',
+   'PYMODULE'),
+  ('ctypes.macholib',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\ctypes\\macholib\\__init__.py',
+   'PYMODULE'),
+  ('ctypes.macholib.dyld',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\ctypes\\macholib\\dyld.py',
+   'PYMODULE'),
+  ('ctypes.macholib.dylib',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\ctypes\\macholib\\dylib.py',
+   'PYMODULE'),
+  ('ctypes.macholib.framework',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\ctypes\\macholib\\framework.py',
+   'PYMODULE'),
+  ('ctypes.util',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\ctypes\\util.py',
+   'PYMODULE'),
+  ('ctypes.wintypes',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\ctypes\\wintypes.py',
+   'PYMODULE'),
+  ('customtkinter',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\customtkinter\\__init__.py',
+   'PYMODULE'),
+  ('customtkinter.windows',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\customtkinter\\windows\\__init__.py',
+   'PYMODULE'),
+  ('customtkinter.windows.ctk_input_dialog',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- '
+   'ver.1.5\\.venv\\Lib\\site-packages\\customtkinter\\windows\\ctk_input_dialog.py',
+   'PYMODULE'),
+  ('customtkinter.windows.ctk_tk',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\customtkinter\\windows\\ctk_tk.py',
+   'PYMODULE'),
+  ('customtkinter.windows.ctk_toplevel',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- '
+   'ver.1.5\\.venv\\Lib\\site-packages\\customtkinter\\windows\\ctk_toplevel.py',
+   'PYMODULE'),
+  ('customtkinter.windows.widgets',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- '
+   'ver.1.5\\.venv\\Lib\\site-packages\\customtkinter\\windows\\widgets\\__init__.py',
+   'PYMODULE'),
+  ('customtkinter.windows.widgets.appearance_mode',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- '
+   'ver.1.5\\.venv\\Lib\\site-packages\\customtkinter\\windows\\widgets\\appearance_mode\\__init__.py',
+   'PYMODULE'),
+  ('customtkinter.windows.widgets.appearance_mode.appearance_mode_base_class',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- '
+   'ver.1.5\\.venv\\Lib\\site-packages\\customtkinter\\windows\\widgets\\appearance_mode\\appearance_mode_base_class.py',
+   'PYMODULE'),
+  ('customtkinter.windows.widgets.appearance_mode.appearance_mode_tracker',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- '
+   'ver.1.5\\.venv\\Lib\\site-packages\\customtkinter\\windows\\widgets\\appearance_mode\\appearance_mode_tracker.py',
+   'PYMODULE'),
+  ('customtkinter.windows.widgets.core_rendering',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- '
+   'ver.1.5\\.venv\\Lib\\site-packages\\customtkinter\\windows\\widgets\\core_rendering\\__init__.py',
+   'PYMODULE'),
+  ('customtkinter.windows.widgets.core_rendering.ctk_canvas',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- '
+   'ver.1.5\\.venv\\Lib\\site-packages\\customtkinter\\windows\\widgets\\core_rendering\\ctk_canvas.py',
+   'PYMODULE'),
+  ('customtkinter.windows.widgets.core_rendering.draw_engine',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- '
+   'ver.1.5\\.venv\\Lib\\site-packages\\customtkinter\\windows\\widgets\\core_rendering\\draw_engine.py',
+   'PYMODULE'),
+  ('customtkinter.windows.widgets.core_widget_classes',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- '
+   'ver.1.5\\.venv\\Lib\\site-packages\\customtkinter\\windows\\widgets\\core_widget_classes\\__init__.py',
+   'PYMODULE'),
+  ('customtkinter.windows.widgets.core_widget_classes.ctk_base_class',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- '
+   'ver.1.5\\.venv\\Lib\\site-packages\\customtkinter\\windows\\widgets\\core_widget_classes\\ctk_base_class.py',
+   'PYMODULE'),
+  ('customtkinter.windows.widgets.core_widget_classes.dropdown_menu',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- '
+   'ver.1.5\\.venv\\Lib\\site-packages\\customtkinter\\windows\\widgets\\core_widget_classes\\dropdown_menu.py',
+   'PYMODULE'),
+  ('customtkinter.windows.widgets.ctk_button',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- '
+   'ver.1.5\\.venv\\Lib\\site-packages\\customtkinter\\windows\\widgets\\ctk_button.py',
+   'PYMODULE'),
+  ('customtkinter.windows.widgets.ctk_checkbox',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- '
+   'ver.1.5\\.venv\\Lib\\site-packages\\customtkinter\\windows\\widgets\\ctk_checkbox.py',
+   'PYMODULE'),
+  ('customtkinter.windows.widgets.ctk_combobox',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- '
+   'ver.1.5\\.venv\\Lib\\site-packages\\customtkinter\\windows\\widgets\\ctk_combobox.py',
+   'PYMODULE'),
+  ('customtkinter.windows.widgets.ctk_entry',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- '
+   'ver.1.5\\.venv\\Lib\\site-packages\\customtkinter\\windows\\widgets\\ctk_entry.py',
+   'PYMODULE'),
+  ('customtkinter.windows.widgets.ctk_frame',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- '
+   'ver.1.5\\.venv\\Lib\\site-packages\\customtkinter\\windows\\widgets\\ctk_frame.py',
+   'PYMODULE'),
+  ('customtkinter.windows.widgets.ctk_label',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- '
+   'ver.1.5\\.venv\\Lib\\site-packages\\customtkinter\\windows\\widgets\\ctk_label.py',
+   'PYMODULE'),
+  ('customtkinter.windows.widgets.ctk_optionmenu',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- '
+   'ver.1.5\\.venv\\Lib\\site-packages\\customtkinter\\windows\\widgets\\ctk_optionmenu.py',
+   'PYMODULE'),
+  ('customtkinter.windows.widgets.ctk_progressbar',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- '
+   'ver.1.5\\.venv\\Lib\\site-packages\\customtkinter\\windows\\widgets\\ctk_progressbar.py',
+   'PYMODULE'),
+  ('customtkinter.windows.widgets.ctk_radiobutton',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- '
+   'ver.1.5\\.venv\\Lib\\site-packages\\customtkinter\\windows\\widgets\\ctk_radiobutton.py',
+   'PYMODULE'),
+  ('customtkinter.windows.widgets.ctk_scrollable_frame',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- '
+   'ver.1.5\\.venv\\Lib\\site-packages\\customtkinter\\windows\\widgets\\ctk_scrollable_frame.py',
+   'PYMODULE'),
+  ('customtkinter.windows.widgets.ctk_scrollbar',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- '
+   'ver.1.5\\.venv\\Lib\\site-packages\\customtkinter\\windows\\widgets\\ctk_scrollbar.py',
+   'PYMODULE'),
+  ('customtkinter.windows.widgets.ctk_segmented_button',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- '
+   'ver.1.5\\.venv\\Lib\\site-packages\\customtkinter\\windows\\widgets\\ctk_segmented_button.py',
+   'PYMODULE'),
+  ('customtkinter.windows.widgets.ctk_slider',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- '
+   'ver.1.5\\.venv\\Lib\\site-packages\\customtkinter\\windows\\widgets\\ctk_slider.py',
+   'PYMODULE'),
+  ('customtkinter.windows.widgets.ctk_switch',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- '
+   'ver.1.5\\.venv\\Lib\\site-packages\\customtkinter\\windows\\widgets\\ctk_switch.py',
+   'PYMODULE'),
+  ('customtkinter.windows.widgets.ctk_tabview',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- '
+   'ver.1.5\\.venv\\Lib\\site-packages\\customtkinter\\windows\\widgets\\ctk_tabview.py',
+   'PYMODULE'),
+  ('customtkinter.windows.widgets.ctk_textbox',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- '
+   'ver.1.5\\.venv\\Lib\\site-packages\\customtkinter\\windows\\widgets\\ctk_textbox.py',
+   'PYMODULE'),
+  ('customtkinter.windows.widgets.font',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- '
+   'ver.1.5\\.venv\\Lib\\site-packages\\customtkinter\\windows\\widgets\\font\\__init__.py',
+   'PYMODULE'),
+  ('customtkinter.windows.widgets.font.ctk_font',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- '
+   'ver.1.5\\.venv\\Lib\\site-packages\\customtkinter\\windows\\widgets\\font\\ctk_font.py',
+   'PYMODULE'),
+  ('customtkinter.windows.widgets.font.font_manager',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- '
+   'ver.1.5\\.venv\\Lib\\site-packages\\customtkinter\\windows\\widgets\\font\\font_manager.py',
+   'PYMODULE'),
+  ('customtkinter.windows.widgets.image',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- '
+   'ver.1.5\\.venv\\Lib\\site-packages\\customtkinter\\windows\\widgets\\image\\__init__.py',
+   'PYMODULE'),
+  ('customtkinter.windows.widgets.image.ctk_image',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- '
+   'ver.1.5\\.venv\\Lib\\site-packages\\customtkinter\\windows\\widgets\\image\\ctk_image.py',
+   'PYMODULE'),
+  ('customtkinter.windows.widgets.scaling',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- '
+   'ver.1.5\\.venv\\Lib\\site-packages\\customtkinter\\windows\\widgets\\scaling\\__init__.py',
+   'PYMODULE'),
+  ('customtkinter.windows.widgets.scaling.scaling_base_class',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- '
+   'ver.1.5\\.venv\\Lib\\site-packages\\customtkinter\\windows\\widgets\\scaling\\scaling_base_class.py',
+   'PYMODULE'),
+  ('customtkinter.windows.widgets.scaling.scaling_tracker',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- '
+   'ver.1.5\\.venv\\Lib\\site-packages\\customtkinter\\windows\\widgets\\scaling\\scaling_tracker.py',
+   'PYMODULE'),
+  ('customtkinter.windows.widgets.theme',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- '
+   'ver.1.5\\.venv\\Lib\\site-packages\\customtkinter\\windows\\widgets\\theme\\__init__.py',
+   'PYMODULE'),
+  ('customtkinter.windows.widgets.theme.theme_manager',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- '
+   'ver.1.5\\.venv\\Lib\\site-packages\\customtkinter\\windows\\widgets\\theme\\theme_manager.py',
+   'PYMODULE'),
+  ('customtkinter.windows.widgets.utility',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- '
+   'ver.1.5\\.venv\\Lib\\site-packages\\customtkinter\\windows\\widgets\\utility\\__init__.py',
+   'PYMODULE'),
+  ('customtkinter.windows.widgets.utility.utility_functions',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- '
+   'ver.1.5\\.venv\\Lib\\site-packages\\customtkinter\\windows\\widgets\\utility\\utility_functions.py',
+   'PYMODULE'),
+  ('darkdetect',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\darkdetect\\__init__.py',
+   'PYMODULE'),
+  ('darkdetect._dummy',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\darkdetect\\_dummy.py',
+   'PYMODULE'),
+  ('darkdetect._linux_detect',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\darkdetect\\_linux_detect.py',
+   'PYMODULE'),
+  ('darkdetect._mac_detect',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\darkdetect\\_mac_detect.py',
+   'PYMODULE'),
+  ('darkdetect._windows_detect',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\darkdetect\\_windows_detect.py',
+   'PYMODULE'),
+  ('dataclasses',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\dataclasses.py',
+   'PYMODULE'),
+  ('datetime',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\datetime.py',
+   'PYMODULE'),
+  ('decimal',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\decimal.py',
+   'PYMODULE'),
+  ('difflib',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\difflib.py',
+   'PYMODULE'),
+  ('dis',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\dis.py',
+   'PYMODULE'),
+  ('email',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\__init__.py',
+   'PYMODULE'),
+  ('email._encoded_words',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\_encoded_words.py',
+   'PYMODULE'),
+  ('email._header_value_parser',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\_header_value_parser.py',
+   'PYMODULE'),
+  ('email._parseaddr',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\_parseaddr.py',
+   'PYMODULE'),
+  ('email._policybase',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\_policybase.py',
+   'PYMODULE'),
+  ('email.base64mime',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\base64mime.py',
+   'PYMODULE'),
+  ('email.charset',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\charset.py',
+   'PYMODULE'),
+  ('email.contentmanager',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\contentmanager.py',
+   'PYMODULE'),
+  ('email.encoders',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\encoders.py',
+   'PYMODULE'),
+  ('email.errors',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\errors.py',
+   'PYMODULE'),
+  ('email.feedparser',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\feedparser.py',
+   'PYMODULE'),
+  ('email.generator',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\generator.py',
+   'PYMODULE'),
+  ('email.header',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\header.py',
+   'PYMODULE'),
+  ('email.headerregistry',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\headerregistry.py',
+   'PYMODULE'),
+  ('email.iterators',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\iterators.py',
+   'PYMODULE'),
+  ('email.message',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\message.py',
+   'PYMODULE'),
+  ('email.parser',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\parser.py',
+   'PYMODULE'),
+  ('email.policy',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\policy.py',
+   'PYMODULE'),
+  ('email.quoprimime',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\quoprimime.py',
+   'PYMODULE'),
+  ('email.utils',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\utils.py',
+   'PYMODULE'),
+  ('fnmatch',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\fnmatch.py',
+   'PYMODULE'),
+  ('fractions',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\fractions.py',
+   'PYMODULE'),
+  ('ftplib',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\ftplib.py',
+   'PYMODULE'),
+  ('getopt',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\getopt.py',
+   'PYMODULE'),
+  ('getpass',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\getpass.py',
+   'PYMODULE'),
+  ('gettext',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\gettext.py',
+   'PYMODULE'),
+  ('glob',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\glob.py',
+   'PYMODULE'),
+  ('gzip',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\gzip.py',
+   'PYMODULE'),
+  ('hashlib',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\hashlib.py',
+   'PYMODULE'),
+  ('hmac',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\hmac.py',
+   'PYMODULE'),
+  ('html',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\html\\__init__.py',
+   'PYMODULE'),
+  ('html.entities',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\html\\entities.py',
+   'PYMODULE'),
+  ('html.parser',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\html\\parser.py',
+   'PYMODULE'),
+  ('http',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\http\\__init__.py',
+   'PYMODULE'),
+  ('http.client',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\http\\client.py',
+   'PYMODULE'),
+  ('http.cookiejar',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\http\\cookiejar.py',
+   'PYMODULE'),
+  ('http.cookies',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\http\\cookies.py',
+   'PYMODULE'),
+  ('http.server',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\http\\server.py',
+   'PYMODULE'),
+  ('idna',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\idna\\__init__.py',
+   'PYMODULE'),
+  ('idna.core',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\idna\\core.py',
+   'PYMODULE'),
+  ('idna.idnadata',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\idna\\idnadata.py',
+   'PYMODULE'),
+  ('idna.intranges',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\idna\\intranges.py',
+   'PYMODULE'),
+  ('idna.package_data',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\idna\\package_data.py',
+   'PYMODULE'),
+  ('idna.uts46data',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\idna\\uts46data.py',
+   'PYMODULE'),
+  ('importlib',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\__init__.py',
+   'PYMODULE'),
+  ('importlib._abc',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\_abc.py',
+   'PYMODULE'),
+  ('importlib._bootstrap',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\_bootstrap.py',
+   'PYMODULE'),
+  ('importlib._bootstrap_external',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\_bootstrap_external.py',
+   'PYMODULE'),
+  ('importlib.abc',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\abc.py',
+   'PYMODULE'),
+  ('importlib.machinery',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\machinery.py',
+   'PYMODULE'),
+  ('importlib.metadata',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\metadata\\__init__.py',
+   'PYMODULE'),
+  ('importlib.metadata._adapters',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\metadata\\_adapters.py',
+   'PYMODULE'),
+  ('importlib.metadata._collections',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\metadata\\_collections.py',
+   'PYMODULE'),
+  ('importlib.metadata._functools',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\metadata\\_functools.py',
+   'PYMODULE'),
+  ('importlib.metadata._itertools',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\metadata\\_itertools.py',
+   'PYMODULE'),
+  ('importlib.metadata._meta',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\metadata\\_meta.py',
+   'PYMODULE'),
+  ('importlib.metadata._text',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\metadata\\_text.py',
+   'PYMODULE'),
+  ('importlib.readers',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\readers.py',
+   'PYMODULE'),
+  ('importlib.resources',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\resources\\__init__.py',
+   'PYMODULE'),
+  ('importlib.resources._adapters',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\resources\\_adapters.py',
+   'PYMODULE'),
+  ('importlib.resources._common',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\resources\\_common.py',
+   'PYMODULE'),
+  ('importlib.resources._itertools',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\resources\\_itertools.py',
+   'PYMODULE'),
+  ('importlib.resources._legacy',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\resources\\_legacy.py',
+   'PYMODULE'),
+  ('importlib.resources.abc',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\resources\\abc.py',
+   'PYMODULE'),
+  ('importlib.resources.readers',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\resources\\readers.py',
+   'PYMODULE'),
+  ('importlib.util',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\util.py',
+   'PYMODULE'),
+  ('inspect',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\inspect.py',
+   'PYMODULE'),
+  ('ipaddress',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\ipaddress.py',
+   'PYMODULE'),
+  ('json',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\json\\__init__.py',
+   'PYMODULE'),
+  ('json.decoder',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\json\\decoder.py',
+   'PYMODULE'),
+  ('json.encoder',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\json\\encoder.py',
+   'PYMODULE'),
+  ('json.scanner',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\json\\scanner.py',
+   'PYMODULE'),
+  ('logging',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\logging\\__init__.py',
+   'PYMODULE'),
+  ('lzma',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\lzma.py',
+   'PYMODULE'),
+  ('markdown',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\markdown\\__init__.py',
+   'PYMODULE'),
+  ('markdown.__meta__',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\markdown\\__meta__.py',
+   'PYMODULE'),
+  ('markdown.blockparser',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\markdown\\blockparser.py',
+   'PYMODULE'),
+  ('markdown.blockprocessors',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\markdown\\blockprocessors.py',
+   'PYMODULE'),
+  ('markdown.core',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\markdown\\core.py',
+   'PYMODULE'),
+  ('markdown.extensions',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\markdown\\extensions\\__init__.py',
+   'PYMODULE'),
+  ('markdown.extensions.abbr',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\markdown\\extensions\\abbr.py',
+   'PYMODULE'),
+  ('markdown.extensions.admonition',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\markdown\\extensions\\admonition.py',
+   'PYMODULE'),
+  ('markdown.extensions.attr_list',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\markdown\\extensions\\attr_list.py',
+   'PYMODULE'),
+  ('markdown.extensions.codehilite',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\markdown\\extensions\\codehilite.py',
+   'PYMODULE'),
+  ('markdown.extensions.def_list',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\markdown\\extensions\\def_list.py',
+   'PYMODULE'),
+  ('markdown.extensions.extra',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\markdown\\extensions\\extra.py',
+   'PYMODULE'),
+  ('markdown.extensions.fenced_code',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\markdown\\extensions\\fenced_code.py',
+   'PYMODULE'),
+  ('markdown.extensions.footnotes',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\markdown\\extensions\\footnotes.py',
+   'PYMODULE'),
+  ('markdown.extensions.legacy_attrs',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- '
+   'ver.1.5\\.venv\\Lib\\site-packages\\markdown\\extensions\\legacy_attrs.py',
+   'PYMODULE'),
+  ('markdown.extensions.legacy_em',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\markdown\\extensions\\legacy_em.py',
+   'PYMODULE'),
+  ('markdown.extensions.md_in_html',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\markdown\\extensions\\md_in_html.py',
+   'PYMODULE'),
+  ('markdown.extensions.meta',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\markdown\\extensions\\meta.py',
+   'PYMODULE'),
+  ('markdown.extensions.nl2br',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\markdown\\extensions\\nl2br.py',
+   'PYMODULE'),
+  ('markdown.extensions.sane_lists',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\markdown\\extensions\\sane_lists.py',
+   'PYMODULE'),
+  ('markdown.extensions.smarty',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\markdown\\extensions\\smarty.py',
+   'PYMODULE'),
+  ('markdown.extensions.tables',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\markdown\\extensions\\tables.py',
+   'PYMODULE'),
+  ('markdown.extensions.toc',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\markdown\\extensions\\toc.py',
+   'PYMODULE'),
+  ('markdown.extensions.wikilinks',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\markdown\\extensions\\wikilinks.py',
+   'PYMODULE'),
+  ('markdown.htmlparser',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\markdown\\htmlparser.py',
+   'PYMODULE'),
+  ('markdown.inlinepatterns',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\markdown\\inlinepatterns.py',
+   'PYMODULE'),
+  ('markdown.postprocessors',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\markdown\\postprocessors.py',
+   'PYMODULE'),
+  ('markdown.preprocessors',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\markdown\\preprocessors.py',
+   'PYMODULE'),
+  ('markdown.serializers',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\markdown\\serializers.py',
+   'PYMODULE'),
+  ('markdown.treeprocessors',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\markdown\\treeprocessors.py',
+   'PYMODULE'),
+  ('markdown.util',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\markdown\\util.py',
+   'PYMODULE'),
+  ('mimetypes',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\mimetypes.py',
+   'PYMODULE'),
+  ('multiprocessing',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\__init__.py',
+   'PYMODULE'),
+  ('multiprocessing.connection',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\connection.py',
+   'PYMODULE'),
+  ('multiprocessing.context',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\context.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\dummy\\__init__.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy.connection',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\dummy\\connection.py',
+   'PYMODULE'),
+  ('multiprocessing.forkserver',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.heap',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\heap.py',
+   'PYMODULE'),
+  ('multiprocessing.managers',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\managers.py',
+   'PYMODULE'),
+  ('multiprocessing.pool',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\pool.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_fork',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\popen_fork.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_forkserver',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\popen_forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_posix',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\popen_spawn_posix.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_win32',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\popen_spawn_win32.py',
+   'PYMODULE'),
+  ('multiprocessing.process',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\process.py',
+   'PYMODULE'),
+  ('multiprocessing.queues',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\queues.py',
+   'PYMODULE'),
+  ('multiprocessing.reduction',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\reduction.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_sharer',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\resource_sharer.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_tracker',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\resource_tracker.py',
+   'PYMODULE'),
+  ('multiprocessing.shared_memory',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\shared_memory.py',
+   'PYMODULE'),
+  ('multiprocessing.sharedctypes',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\sharedctypes.py',
+   'PYMODULE'),
+  ('multiprocessing.spawn',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\spawn.py',
+   'PYMODULE'),
+  ('multiprocessing.synchronize',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\synchronize.py',
+   'PYMODULE'),
+  ('multiprocessing.util',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\util.py',
+   'PYMODULE'),
+  ('netrc',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\netrc.py',
+   'PYMODULE'),
+  ('nturl2path',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\nturl2path.py',
+   'PYMODULE'),
+  ('numbers',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\numbers.py',
+   'PYMODULE'),
+  ('opcode',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\opcode.py',
+   'PYMODULE'),
+  ('packaging',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\packaging\\__init__.py',
+   'PYMODULE'),
+  ('packaging._elffile',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\packaging\\_elffile.py',
+   'PYMODULE'),
+  ('packaging._manylinux',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\packaging\\_manylinux.py',
+   'PYMODULE'),
+  ('packaging._musllinux',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\packaging\\_musllinux.py',
+   'PYMODULE'),
+  ('packaging._parser',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\packaging\\_parser.py',
+   'PYMODULE'),
+  ('packaging._structures',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\packaging\\_structures.py',
+   'PYMODULE'),
+  ('packaging._tokenizer',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\packaging\\_tokenizer.py',
+   'PYMODULE'),
+  ('packaging.licenses',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\packaging\\licenses\\__init__.py',
+   'PYMODULE'),
+  ('packaging.licenses._spdx',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\packaging\\licenses\\_spdx.py',
+   'PYMODULE'),
+  ('packaging.markers',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\packaging\\markers.py',
+   'PYMODULE'),
+  ('packaging.requirements',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\packaging\\requirements.py',
+   'PYMODULE'),
+  ('packaging.specifiers',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\packaging\\specifiers.py',
+   'PYMODULE'),
+  ('packaging.tags',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\packaging\\tags.py',
+   'PYMODULE'),
+  ('packaging.utils',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\packaging\\utils.py',
+   'PYMODULE'),
+  ('packaging.version',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\packaging\\version.py',
+   'PYMODULE'),
+  ('pathlib',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\pathlib.py',
+   'PYMODULE'),
+  ('pickle',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\pickle.py',
+   'PYMODULE'),
+  ('pkgutil',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\pkgutil.py',
+   'PYMODULE'),
+  ('platform',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\platform.py',
+   'PYMODULE'),
+  ('pprint',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\pprint.py',
+   'PYMODULE'),
+  ('py_compile',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\py_compile.py',
+   'PYMODULE'),
+  ('pycparser',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\pycparser\\__init__.py',
+   'PYMODULE'),
+  ('pycparser.ast_transforms',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\pycparser\\ast_transforms.py',
+   'PYMODULE'),
+  ('pycparser.c_ast',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\pycparser\\c_ast.py',
+   'PYMODULE'),
+  ('pycparser.c_lexer',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\pycparser\\c_lexer.py',
+   'PYMODULE'),
+  ('pycparser.c_parser',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\pycparser\\c_parser.py',
+   'PYMODULE'),
+  ('pydoc',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\pydoc.py',
+   'PYMODULE'),
+  ('pydoc_data',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\pydoc_data\\__init__.py',
+   'PYMODULE'),
+  ('pydoc_data.topics',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\pydoc_data\\topics.py',
+   'PYMODULE'),
+  ('queue',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\queue.py',
+   'PYMODULE'),
+  ('quopri',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\quopri.py',
+   'PYMODULE'),
+  ('random',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\random.py',
+   'PYMODULE'),
+  ('requests',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\requests\\__init__.py',
+   'PYMODULE'),
+  ('requests.__version__',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\requests\\__version__.py',
+   'PYMODULE'),
+  ('requests._internal_utils',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\requests\\_internal_utils.py',
+   'PYMODULE'),
+  ('requests.adapters',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\requests\\adapters.py',
+   'PYMODULE'),
+  ('requests.api',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\requests\\api.py',
+   'PYMODULE'),
+  ('requests.auth',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\requests\\auth.py',
+   'PYMODULE'),
+  ('requests.certs',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\requests\\certs.py',
+   'PYMODULE'),
+  ('requests.compat',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\requests\\compat.py',
+   'PYMODULE'),
+  ('requests.cookies',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\requests\\cookies.py',
+   'PYMODULE'),
+  ('requests.exceptions',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\requests\\exceptions.py',
+   'PYMODULE'),
+  ('requests.hooks',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\requests\\hooks.py',
+   'PYMODULE'),
+  ('requests.models',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\requests\\models.py',
+   'PYMODULE'),
+  ('requests.packages',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\requests\\packages.py',
+   'PYMODULE'),
+  ('requests.sessions',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\requests\\sessions.py',
+   'PYMODULE'),
+  ('requests.status_codes',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\requests\\status_codes.py',
+   'PYMODULE'),
+  ('requests.structures',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\requests\\structures.py',
+   'PYMODULE'),
+  ('requests.utils',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\requests\\utils.py',
+   'PYMODULE'),
+  ('rlcompleter',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\rlcompleter.py',
+   'PYMODULE'),
+  ('runpy',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\runpy.py',
+   'PYMODULE'),
+  ('secrets',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\secrets.py',
+   'PYMODULE'),
+  ('selectors',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\selectors.py',
+   'PYMODULE'),
+  ('setuptools',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\setuptools\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._core_metadata',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\setuptools\\_core_metadata.py',
+   'PYMODULE'),
+  ('setuptools._discovery',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\setuptools\\_discovery.py',
+   'PYMODULE'),
+  ('setuptools._distutils',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._distutils._log',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\_log.py',
+   'PYMODULE'),
+  ('setuptools._distutils._modified',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\_modified.py',
+   'PYMODULE'),
+  ('setuptools._distutils._msvccompiler',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- '
+   'ver.1.5\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\_msvccompiler.py',
+   'PYMODULE'),
+  ('setuptools._distutils.archive_util',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- '
+   'ver.1.5\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\archive_util.py',
+   'PYMODULE'),
+  ('setuptools._distutils.ccompiler',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\ccompiler.py',
+   'PYMODULE'),
+  ('setuptools._distutils.cmd',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\cmd.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- '
+   'ver.1.5\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\command\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.bdist',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- '
+   'ver.1.5\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\command\\bdist.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.build',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- '
+   'ver.1.5\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\command\\build.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.build_ext',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- '
+   'ver.1.5\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\command\\build_ext.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.sdist',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- '
+   'ver.1.5\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\command\\sdist.py',
+   'PYMODULE'),
+  ('setuptools._distutils.compat',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- '
+   'ver.1.5\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\compat\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._distutils.compat.numpy',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- '
+   'ver.1.5\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\compat\\numpy.py',
+   'PYMODULE'),
+  ('setuptools._distutils.compat.py39',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- '
+   'ver.1.5\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\compat\\py39.py',
+   'PYMODULE'),
+  ('setuptools._distutils.compilers', '-', 'PYMODULE'),
+  ('setuptools._distutils.compilers.C', '-', 'PYMODULE'),
+  ('setuptools._distutils.compilers.C.base',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- '
+   'ver.1.5\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\compilers\\C\\base.py',
+   'PYMODULE'),
+  ('setuptools._distutils.compilers.C.errors',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- '
+   'ver.1.5\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\compilers\\C\\errors.py',
+   'PYMODULE'),
+  ('setuptools._distutils.compilers.C.msvc',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- '
+   'ver.1.5\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\compilers\\C\\msvc.py',
+   'PYMODULE'),
+  ('setuptools._distutils.core',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\core.py',
+   'PYMODULE'),
+  ('setuptools._distutils.debug',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\debug.py',
+   'PYMODULE'),
+  ('setuptools._distutils.dir_util',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\dir_util.py',
+   'PYMODULE'),
+  ('setuptools._distutils.dist',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\dist.py',
+   'PYMODULE'),
+  ('setuptools._distutils.errors',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\errors.py',
+   'PYMODULE'),
+  ('setuptools._distutils.extension',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\extension.py',
+   'PYMODULE'),
+  ('setuptools._distutils.fancy_getopt',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- '
+   'ver.1.5\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\fancy_getopt.py',
+   'PYMODULE'),
+  ('setuptools._distutils.file_util',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\file_util.py',
+   'PYMODULE'),
+  ('setuptools._distutils.filelist',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\filelist.py',
+   'PYMODULE'),
+  ('setuptools._distutils.log',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\log.py',
+   'PYMODULE'),
+  ('setuptools._distutils.spawn',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\spawn.py',
+   'PYMODULE'),
+  ('setuptools._distutils.sysconfig',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\sysconfig.py',
+   'PYMODULE'),
+  ('setuptools._distutils.text_file',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\text_file.py',
+   'PYMODULE'),
+  ('setuptools._distutils.util',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\util.py',
+   'PYMODULE'),
+  ('setuptools._distutils.version',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\version.py',
+   'PYMODULE'),
+  ('setuptools._distutils.versionpredicate',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- '
+   'ver.1.5\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\versionpredicate.py',
+   'PYMODULE'),
+  ('setuptools._entry_points',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\setuptools\\_entry_points.py',
+   'PYMODULE'),
+  ('setuptools._imp',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\setuptools\\_imp.py',
+   'PYMODULE'),
+  ('setuptools._importlib',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\setuptools\\_importlib.py',
+   'PYMODULE'),
+  ('setuptools._itertools',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\setuptools\\_itertools.py',
+   'PYMODULE'),
+  ('setuptools._normalization',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\setuptools\\_normalization.py',
+   'PYMODULE'),
+  ('setuptools._path',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\setuptools\\_path.py',
+   'PYMODULE'),
+  ('setuptools._reqs',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\setuptools\\_reqs.py',
+   'PYMODULE'),
+  ('setuptools._shutil',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\setuptools\\_shutil.py',
+   'PYMODULE'),
+  ('setuptools._static',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\setuptools\\_static.py',
+   'PYMODULE'),
+  ('setuptools._vendor', '-', 'PYMODULE'),
+  ('setuptools._vendor.backports',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- '
+   'ver.1.5\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\backports\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.backports.tarfile',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- '
+   'ver.1.5\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\backports\\tarfile\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.backports.tarfile.compat',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- '
+   'ver.1.5\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\backports\\tarfile\\compat\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.backports.tarfile.compat.py38',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- '
+   'ver.1.5\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\backports\\tarfile\\compat\\py38.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_metadata',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- '
+   'ver.1.5\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_metadata._adapters',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- '
+   'ver.1.5\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\_adapters.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_metadata._collections',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- '
+   'ver.1.5\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\_collections.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_metadata._compat',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- '
+   'ver.1.5\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\_compat.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_metadata._functools',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- '
+   'ver.1.5\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\_functools.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_metadata._itertools',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- '
+   'ver.1.5\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\_itertools.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_metadata._meta',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- '
+   'ver.1.5\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\_meta.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_metadata._text',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- '
+   'ver.1.5\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\_text.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_metadata._typing',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- '
+   'ver.1.5\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\_typing.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_metadata.compat',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- '
+   'ver.1.5\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\compat\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_metadata.compat.py311',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- '
+   'ver.1.5\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\compat\\py311.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_metadata.compat.py39',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- '
+   'ver.1.5\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\compat\\py39.py',
+   'PYMODULE'),
+  ('setuptools._vendor.jaraco', '-', 'PYMODULE'),
+  ('setuptools._vendor.jaraco.context',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- '
+   'ver.1.5\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\jaraco\\context\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.jaraco.functools',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- '
+   'ver.1.5\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\jaraco\\functools\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.jaraco.text',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- '
+   'ver.1.5\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\jaraco\\text\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.more_itertools',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- '
+   'ver.1.5\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\more_itertools\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.more_itertools.more',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- '
+   'ver.1.5\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\more_itertools\\more.py',
+   'PYMODULE'),
+  ('setuptools._vendor.more_itertools.recipes',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- '
+   'ver.1.5\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\more_itertools\\recipes.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- '
+   'ver.1.5\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging._elffile',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- '
+   'ver.1.5\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\_elffile.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging._manylinux',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- '
+   'ver.1.5\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\_manylinux.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging._musllinux',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- '
+   'ver.1.5\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\_musllinux.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging._parser',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- '
+   'ver.1.5\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\_parser.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging._structures',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- '
+   'ver.1.5\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\_structures.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging._tokenizer',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- '
+   'ver.1.5\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\_tokenizer.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.markers',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- '
+   'ver.1.5\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\markers.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.requirements',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- '
+   'ver.1.5\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\requirements.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.specifiers',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- '
+   'ver.1.5\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\specifiers.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.tags',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- '
+   'ver.1.5\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\tags.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.utils',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- '
+   'ver.1.5\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\utils.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.version',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- '
+   'ver.1.5\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\version.py',
+   'PYMODULE'),
+  ('setuptools._vendor.tomli',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- '
+   'ver.1.5\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\tomli\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.tomli._parser',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- '
+   'ver.1.5\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\tomli\\_parser.py',
+   'PYMODULE'),
+  ('setuptools._vendor.tomli._re',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\tomli\\_re.py',
+   'PYMODULE'),
+  ('setuptools._vendor.tomli._types',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- '
+   'ver.1.5\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\tomli\\_types.py',
+   'PYMODULE'),
+  ('setuptools._vendor.wheel',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- '
+   'ver.1.5\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\wheel\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.wheel.macosx_libfile',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- '
+   'ver.1.5\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\wheel\\macosx_libfile.py',
+   'PYMODULE'),
+  ('setuptools._vendor.wheel.wheelfile',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- '
+   'ver.1.5\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\wheel\\wheelfile.py',
+   'PYMODULE'),
+  ('setuptools._vendor.zipp',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- '
+   'ver.1.5\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\zipp\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.zipp._functools',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- '
+   'ver.1.5\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\zipp\\_functools.py',
+   'PYMODULE'),
+  ('setuptools._vendor.zipp.compat',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- '
+   'ver.1.5\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\zipp\\compat\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.zipp.compat.overlay',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- '
+   'ver.1.5\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\zipp\\compat\\overlay.py',
+   'PYMODULE'),
+  ('setuptools._vendor.zipp.compat.py310',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- '
+   'ver.1.5\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\zipp\\compat\\py310.py',
+   'PYMODULE'),
+  ('setuptools._vendor.zipp.compat.py313',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- '
+   'ver.1.5\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\zipp\\compat\\py313.py',
+   'PYMODULE'),
+  ('setuptools._vendor.zipp.glob',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\zipp\\glob.py',
+   'PYMODULE'),
+  ('setuptools.archive_util',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\setuptools\\archive_util.py',
+   'PYMODULE'),
+  ('setuptools.command',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\setuptools\\command\\__init__.py',
+   'PYMODULE'),
+  ('setuptools.command._requirestxt',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\setuptools\\command\\_requirestxt.py',
+   'PYMODULE'),
+  ('setuptools.command.bdist_egg',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\setuptools\\command\\bdist_egg.py',
+   'PYMODULE'),
+  ('setuptools.command.bdist_wheel',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\setuptools\\command\\bdist_wheel.py',
+   'PYMODULE'),
+  ('setuptools.command.build',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\setuptools\\command\\build.py',
+   'PYMODULE'),
+  ('setuptools.command.egg_info',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\setuptools\\command\\egg_info.py',
+   'PYMODULE'),
+  ('setuptools.command.sdist',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\setuptools\\command\\sdist.py',
+   'PYMODULE'),
+  ('setuptools.command.setopt',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\setuptools\\command\\setopt.py',
+   'PYMODULE'),
+  ('setuptools.compat',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\setuptools\\compat\\__init__.py',
+   'PYMODULE'),
+  ('setuptools.compat.py310',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\setuptools\\compat\\py310.py',
+   'PYMODULE'),
+  ('setuptools.compat.py311',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\setuptools\\compat\\py311.py',
+   'PYMODULE'),
+  ('setuptools.compat.py39',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\setuptools\\compat\\py39.py',
+   'PYMODULE'),
+  ('setuptools.config',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\setuptools\\config\\__init__.py',
+   'PYMODULE'),
+  ('setuptools.config._apply_pyprojecttoml',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- '
+   'ver.1.5\\.venv\\Lib\\site-packages\\setuptools\\config\\_apply_pyprojecttoml.py',
+   'PYMODULE'),
+  ('setuptools.config._validate_pyproject',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- '
+   'ver.1.5\\.venv\\Lib\\site-packages\\setuptools\\config\\_validate_pyproject\\__init__.py',
+   'PYMODULE'),
+  ('setuptools.config._validate_pyproject.error_reporting',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- '
+   'ver.1.5\\.venv\\Lib\\site-packages\\setuptools\\config\\_validate_pyproject\\error_reporting.py',
+   'PYMODULE'),
+  ('setuptools.config._validate_pyproject.extra_validations',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- '
+   'ver.1.5\\.venv\\Lib\\site-packages\\setuptools\\config\\_validate_pyproject\\extra_validations.py',
+   'PYMODULE'),
+  ('setuptools.config._validate_pyproject.fastjsonschema_exceptions',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- '
+   'ver.1.5\\.venv\\Lib\\site-packages\\setuptools\\config\\_validate_pyproject\\fastjsonschema_exceptions.py',
+   'PYMODULE'),
+  ('setuptools.config._validate_pyproject.fastjsonschema_validations',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- '
+   'ver.1.5\\.venv\\Lib\\site-packages\\setuptools\\config\\_validate_pyproject\\fastjsonschema_validations.py',
+   'PYMODULE'),
+  ('setuptools.config._validate_pyproject.formats',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- '
+   'ver.1.5\\.venv\\Lib\\site-packages\\setuptools\\config\\_validate_pyproject\\formats.py',
+   'PYMODULE'),
+  ('setuptools.config.expand',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\setuptools\\config\\expand.py',
+   'PYMODULE'),
+  ('setuptools.config.pyprojecttoml',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\setuptools\\config\\pyprojecttoml.py',
+   'PYMODULE'),
+  ('setuptools.config.setupcfg',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\setuptools\\config\\setupcfg.py',
+   'PYMODULE'),
+  ('setuptools.depends',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\setuptools\\depends.py',
+   'PYMODULE'),
+  ('setuptools.discovery',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\setuptools\\discovery.py',
+   'PYMODULE'),
+  ('setuptools.dist',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\setuptools\\dist.py',
+   'PYMODULE'),
+  ('setuptools.errors',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\setuptools\\errors.py',
+   'PYMODULE'),
+  ('setuptools.extension',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\setuptools\\extension.py',
+   'PYMODULE'),
+  ('setuptools.glob',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\setuptools\\glob.py',
+   'PYMODULE'),
+  ('setuptools.installer',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\setuptools\\installer.py',
+   'PYMODULE'),
+  ('setuptools.logging',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\setuptools\\logging.py',
+   'PYMODULE'),
+  ('setuptools.monkey',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\setuptools\\monkey.py',
+   'PYMODULE'),
+  ('setuptools.msvc',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\setuptools\\msvc.py',
+   'PYMODULE'),
+  ('setuptools.unicode_utils',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\setuptools\\unicode_utils.py',
+   'PYMODULE'),
+  ('setuptools.version',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\setuptools\\version.py',
+   'PYMODULE'),
+  ('setuptools.warnings',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\setuptools\\warnings.py',
+   'PYMODULE'),
+  ('setuptools.wheel',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\setuptools\\wheel.py',
+   'PYMODULE'),
+  ('setuptools.windows_support',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\setuptools\\windows_support.py',
+   'PYMODULE'),
+  ('shlex',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\shlex.py',
+   'PYMODULE'),
+  ('shutil',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\shutil.py',
+   'PYMODULE'),
+  ('signal',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\signal.py',
+   'PYMODULE'),
+  ('site',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site.py',
+   'PYMODULE'),
+  ('socket',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\socket.py',
+   'PYMODULE'),
+  ('socketserver',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\socketserver.py',
+   'PYMODULE'),
+  ('ssl',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\ssl.py',
+   'PYMODULE'),
+  ('statistics',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\statistics.py',
+   'PYMODULE'),
+  ('string',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\string.py',
+   'PYMODULE'),
+  ('stringprep',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\stringprep.py',
+   'PYMODULE'),
+  ('subprocess',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\subprocess.py',
+   'PYMODULE'),
+  ('sysconfig',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\sysconfig.py',
+   'PYMODULE'),
+  ('tarfile',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\tarfile.py',
+   'PYMODULE'),
+  ('tempfile',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\tempfile.py',
+   'PYMODULE'),
+  ('textwrap',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\textwrap.py',
+   'PYMODULE'),
+  ('threading',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\threading.py',
+   'PYMODULE'),
+  ('tkhtmlview',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\tkhtmlview\\__init__.py',
+   'PYMODULE'),
+  ('tkhtmlview.html_parser',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\tkhtmlview\\html_parser.py',
+   'PYMODULE'),
+  ('tkhtmlview.utils',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\tkhtmlview\\utils.py',
+   'PYMODULE'),
+  ('tkinter',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\tkinter\\__init__.py',
+   'PYMODULE'),
+  ('tkinter.commondialog',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\tkinter\\commondialog.py',
+   'PYMODULE'),
+  ('tkinter.constants',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\tkinter\\constants.py',
+   'PYMODULE'),
+  ('tkinter.dialog',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\tkinter\\dialog.py',
+   'PYMODULE'),
+  ('tkinter.filedialog',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\tkinter\\filedialog.py',
+   'PYMODULE'),
+  ('tkinter.font',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\tkinter\\font.py',
+   'PYMODULE'),
+  ('tkinter.messagebox',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\tkinter\\messagebox.py',
+   'PYMODULE'),
+  ('tkinter.simpledialog',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\tkinter\\simpledialog.py',
+   'PYMODULE'),
+  ('tkinter.ttk',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\tkinter\\ttk.py',
+   'PYMODULE'),
+  ('token',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\token.py',
+   'PYMODULE'),
+  ('tokenize',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\tokenize.py',
+   'PYMODULE'),
+  ('tomllib',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\tomllib\\__init__.py',
+   'PYMODULE'),
+  ('tomllib._parser',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\tomllib\\_parser.py',
+   'PYMODULE'),
+  ('tomllib._re',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\tomllib\\_re.py',
+   'PYMODULE'),
+  ('tomllib._types',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\tomllib\\_types.py',
+   'PYMODULE'),
+  ('tracemalloc',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\tracemalloc.py',
+   'PYMODULE'),
+  ('tty',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\tty.py',
+   'PYMODULE'),
+  ('typing',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\typing.py',
+   'PYMODULE'),
+  ('typing_extensions',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\typing_extensions.py',
+   'PYMODULE'),
+  ('unittest',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\unittest\\__init__.py',
+   'PYMODULE'),
+  ('unittest._log',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\unittest\\_log.py',
+   'PYMODULE'),
+  ('unittest.async_case',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\unittest\\async_case.py',
+   'PYMODULE'),
+  ('unittest.case',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\unittest\\case.py',
+   'PYMODULE'),
+  ('unittest.loader',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\unittest\\loader.py',
+   'PYMODULE'),
+  ('unittest.main',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\unittest\\main.py',
+   'PYMODULE'),
+  ('unittest.mock',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\unittest\\mock.py',
+   'PYMODULE'),
+  ('unittest.result',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\unittest\\result.py',
+   'PYMODULE'),
+  ('unittest.runner',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\unittest\\runner.py',
+   'PYMODULE'),
+  ('unittest.signals',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\unittest\\signals.py',
+   'PYMODULE'),
+  ('unittest.suite',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\unittest\\suite.py',
+   'PYMODULE'),
+  ('unittest.util',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\unittest\\util.py',
+   'PYMODULE'),
+  ('urllib',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\urllib\\__init__.py',
+   'PYMODULE'),
+  ('urllib.error',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\urllib\\error.py',
+   'PYMODULE'),
+  ('urllib.parse',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\urllib\\parse.py',
+   'PYMODULE'),
+  ('urllib.request',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\urllib\\request.py',
+   'PYMODULE'),
+  ('urllib.response',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\urllib\\response.py',
+   'PYMODULE'),
+  ('urllib3',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\urllib3\\__init__.py',
+   'PYMODULE'),
+  ('urllib3._base_connection',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\urllib3\\_base_connection.py',
+   'PYMODULE'),
+  ('urllib3._collections',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\urllib3\\_collections.py',
+   'PYMODULE'),
+  ('urllib3._request_methods',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\urllib3\\_request_methods.py',
+   'PYMODULE'),
+  ('urllib3._version',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\urllib3\\_version.py',
+   'PYMODULE'),
+  ('urllib3.connection',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\urllib3\\connection.py',
+   'PYMODULE'),
+  ('urllib3.connectionpool',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\urllib3\\connectionpool.py',
+   'PYMODULE'),
+  ('urllib3.contrib',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\urllib3\\contrib\\__init__.py',
+   'PYMODULE'),
+  ('urllib3.contrib.emscripten',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- '
+   'ver.1.5\\.venv\\Lib\\site-packages\\urllib3\\contrib\\emscripten\\__init__.py',
+   'PYMODULE'),
+  ('urllib3.contrib.emscripten.connection',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- '
+   'ver.1.5\\.venv\\Lib\\site-packages\\urllib3\\contrib\\emscripten\\connection.py',
+   'PYMODULE'),
+  ('urllib3.contrib.emscripten.fetch',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- '
+   'ver.1.5\\.venv\\Lib\\site-packages\\urllib3\\contrib\\emscripten\\fetch.py',
+   'PYMODULE'),
+  ('urllib3.contrib.emscripten.request',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- '
+   'ver.1.5\\.venv\\Lib\\site-packages\\urllib3\\contrib\\emscripten\\request.py',
+   'PYMODULE'),
+  ('urllib3.contrib.emscripten.response',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- '
+   'ver.1.5\\.venv\\Lib\\site-packages\\urllib3\\contrib\\emscripten\\response.py',
+   'PYMODULE'),
+  ('urllib3.contrib.pyopenssl',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\urllib3\\contrib\\pyopenssl.py',
+   'PYMODULE'),
+  ('urllib3.contrib.socks',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\urllib3\\contrib\\socks.py',
+   'PYMODULE'),
+  ('urllib3.exceptions',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\urllib3\\exceptions.py',
+   'PYMODULE'),
+  ('urllib3.fields',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\urllib3\\fields.py',
+   'PYMODULE'),
+  ('urllib3.filepost',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\urllib3\\filepost.py',
+   'PYMODULE'),
+  ('urllib3.http2',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\urllib3\\http2\\__init__.py',
+   'PYMODULE'),
+  ('urllib3.http2.connection',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\urllib3\\http2\\connection.py',
+   'PYMODULE'),
+  ('urllib3.http2.probe',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\urllib3\\http2\\probe.py',
+   'PYMODULE'),
+  ('urllib3.poolmanager',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\urllib3\\poolmanager.py',
+   'PYMODULE'),
+  ('urllib3.response',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\urllib3\\response.py',
+   'PYMODULE'),
+  ('urllib3.util',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\urllib3\\util\\__init__.py',
+   'PYMODULE'),
+  ('urllib3.util.connection',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\urllib3\\util\\connection.py',
+   'PYMODULE'),
+  ('urllib3.util.proxy',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\urllib3\\util\\proxy.py',
+   'PYMODULE'),
+  ('urllib3.util.request',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\urllib3\\util\\request.py',
+   'PYMODULE'),
+  ('urllib3.util.response',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\urllib3\\util\\response.py',
+   'PYMODULE'),
+  ('urllib3.util.retry',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\urllib3\\util\\retry.py',
+   'PYMODULE'),
+  ('urllib3.util.ssl_',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\urllib3\\util\\ssl_.py',
+   'PYMODULE'),
+  ('urllib3.util.ssl_match_hostname',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\urllib3\\util\\ssl_match_hostname.py',
+   'PYMODULE'),
+  ('urllib3.util.ssltransport',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\urllib3\\util\\ssltransport.py',
+   'PYMODULE'),
+  ('urllib3.util.timeout',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\urllib3\\util\\timeout.py',
+   'PYMODULE'),
+  ('urllib3.util.url',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\urllib3\\util\\url.py',
+   'PYMODULE'),
+  ('urllib3.util.util',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\urllib3\\util\\util.py',
+   'PYMODULE'),
+  ('urllib3.util.wait',
+   'D:\\X_OneDrive\\Python\\- Python Scripts - Projects  -\\Overnote\\Overnote '
+   '- ver.1.5\\.venv\\Lib\\site-packages\\urllib3\\util\\wait.py',
+   'PYMODULE'),
+  ('webbrowser',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\webbrowser.py',
+   'PYMODULE'),
+  ('xml',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xml\\__init__.py',
+   'PYMODULE'),
+  ('xml.etree',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xml\\etree\\__init__.py',
+   'PYMODULE'),
+  ('xml.etree.ElementInclude',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xml\\etree\\ElementInclude.py',
+   'PYMODULE'),
+  ('xml.etree.ElementPath',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xml\\etree\\ElementPath.py',
+   'PYMODULE'),
+  ('xml.etree.ElementTree',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xml\\etree\\ElementTree.py',
+   'PYMODULE'),
+  ('xml.etree.cElementTree',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xml\\etree\\cElementTree.py',
+   'PYMODULE'),
+  ('xml.parsers',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xml\\parsers\\__init__.py',
+   'PYMODULE'),
+  ('xml.parsers.expat',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xml\\parsers\\expat.py',
+   'PYMODULE'),
+  ('xml.sax',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xml\\sax\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax._exceptions',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xml\\sax\\_exceptions.py',
+   'PYMODULE'),
+  ('xml.sax.expatreader',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xml\\sax\\expatreader.py',
+   'PYMODULE'),
+  ('xml.sax.handler',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xml\\sax\\handler.py',
+   'PYMODULE'),
+  ('xml.sax.saxutils',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xml\\sax\\saxutils.py',
+   'PYMODULE'),
+  ('xml.sax.xmlreader',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xml\\sax\\xmlreader.py',
+   'PYMODULE'),
+  ('xmlrpc',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xmlrpc\\__init__.py',
+   'PYMODULE'),
+  ('xmlrpc.client',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xmlrpc\\client.py',
+   'PYMODULE'),
+  ('zipfile',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\zipfile\\__init__.py',
+   'PYMODULE'),
+  ('zipfile._path',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\zipfile\\_path\\__init__.py',
+   'PYMODULE'),
+  ('zipfile._path.glob',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\zipfile\\_path\\glob.py',
+   'PYMODULE'),
+  ('zipimport',
+   'C:\\Users\\Treadway\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\zipimport.py',
+   'PYMODULE')])

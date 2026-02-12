@@ -1,0 +1,9 @@
+customtkinter
+markdown
+pyinstaller
+markdown-it-py
+Pillow
+pyglet
+requests
+tkhtmlview
+pywebview
