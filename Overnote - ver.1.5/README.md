@@ -63,7 +63,7 @@ Before doing anything, make sure you have:
   Check with:
   ```bash
   python --version
-```
+  ```
 
 If this does not show **3.12.9**, install Python from: [Download Python | Python.org](https://www.python.org/downloads/)
 
